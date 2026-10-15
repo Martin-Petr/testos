@@ -1,0 +1,2 @@
+# testos
+první repozitář hodinaGH
